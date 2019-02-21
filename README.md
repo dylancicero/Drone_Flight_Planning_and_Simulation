@@ -1,6 +1,6 @@
 # Drone Flight Planning and Simulation
 
-This project showcases two tools: (1) The first , written in PyQGIS (QGIS 3.2.1) and utilizing the Shapely library, 
+This project showcases two tools: (1) The first, written in PyQGIS (QGIS 3.2.1) and utilizing the Shapely library, 
 groups a given set of drone missions into flights (maximum of 3 concurrent missions per flight) according to an algorithm
 that (a) prevents any chance of collision between concurrent missions in a flight, (b) minimizes the total number of
 flights, and (c) exludes missions that fly too close to a takeoff/landing zone.  (2) The second tool, written in Python2, and utilizing both the Ogr library and the DroneKit-Python API (http://python.dronekit.io/) (a) takes as input the flight plans generated from the first tool, (b) asks a ground-operator to select a flight plan, and (c) simulates its execution.  Please follow the instructions in the "ReadMe" section (at the top of both scripts) before attempting to run either tool on your own machine.
