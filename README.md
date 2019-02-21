@@ -16,6 +16,7 @@ overlapping paths (on the X,Y plane).  The task is to maximize efficiency by run
 in a shapefile, where each feature in a given shapefile represents a straight-line component (point x,y,z to point x,y,z) 
 of the mission.  See diagram below, based off of the example set:
 
+<img width="1012" alt="screen shot 2019-02-21 at 2 46 35 pm" src="https://user-images.githubusercontent.com/43111524/53197108-7f3e0800-35e7-11e9-98eb-4f0cdf1b66e9.png">
 
 
 
