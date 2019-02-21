@@ -19,11 +19,11 @@ IN WHICH YOU WISH TO OUTPUT THE .CSV OF FLIGHTS AND THE .TXT OF NO-FLY MISSIONS
 #********************************************************************************
 # TO DO!
 # Set path to folder containing shapefile missions:
-mission_path = "U:/Work Sample Test/Missions_Renamed/"
+mission_path = "U:/Missions_Renamed/"
 # Set path to shapefile of landing zones:
-lz_path = "U:/Work Sample Test/Landing Zone/LZ_points_WGS.shp"
+lz_path = "U:/Landing Zone/LZ_points_WGS.shp"
 # Set path to folder in which the script artifacts will be outputted
-out_path = 'U:/Work Sample Test/'
+out_path = 'U:/Output_Folder/'
 # Set total number of missions:
 total_missions = 31
 #********************************************************************************
