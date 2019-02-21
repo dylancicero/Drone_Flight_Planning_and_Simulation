@@ -1,0 +1,11 @@
+The following missions get too close to the landing zones: 
+m18
+m31
+m28
+m30
+m29
+m19
+m20
+m21
+m27
+m22

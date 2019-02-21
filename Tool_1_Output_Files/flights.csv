@@ -1,0 +1,9 @@
+flights,drone_1,drone_2,drone_3
+flight_1,9,1,21
+flight_2,10,27,18
+flight_3,19,22,23
+flight_4,20,24,25
+flight_5,26,28,29
+flight_6,30,2,8
+flight_7,11,13,None
+flight_8,12,None,None
