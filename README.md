@@ -27,6 +27,6 @@ The tool will output two files.  The first, "flights.csv", describes the optimal
 
 
 ## Tool 2: Flight Simulation
-Now that we have our flights planned out, time to simulate the actual flights.  This tool first asks a ground operator to select a flight plan from the options in "flights.csv".  Then, it uploads mission information into 3 different vehicle objects in the Dronekit SITL simulator, and finally simulates flight execution.  Replacement of the simulator by actual drone copters would only require a simple substitution of TCP Port information,  Watch simulator run in link below!
+Now that we have our flights planned out, time to simulate the actual flights.  This tool first asks a ground operator to select a flight plan from the options in "flights.csv".  Then, it uploads mission information into 3 different vehicle objects in the Dronekit SITL simulator, and finally simulates flight execution.  Replacement of the simulator by actual drone copters would only require a simple substitution of TCP Port information.  Watch simulator run in link below!
 
 https://www.youtube.com/watch?v=u70SuqdbRZc
